@@ -4,8 +4,8 @@ Adds additional hotkey support to facilitate controlling OBS Studio with MediaSt
 As this simply adds additional hotkey support, this script should work with most any remote, or directly from teh keyboard.
 
 It adds the following hotkeys:
-  * *next scene* - Advances to next scene. Does nothing if the last scene is currently active.
-  * *previous scene* - Goes back to previous scene. Does nothing if the first scene is currently active.
+  * **next scene** - Advances to next scene. Does nothing if the last scene is currently active.
+  * **previous scene** - Goes back to previous scene. Does nothing if the first scene is currently active.
   
 ## MediaStar Pro Usage
 OBS works well with the standard MediaStar profile, as all the keypresses map to function keys.
