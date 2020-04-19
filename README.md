@@ -6,6 +6,8 @@ As this simply adds additional hotkey support, this script should work with most
 It adds the following hotkeys:
   * **next scene** - Advances to next scene. Does nothing if the last scene is currently active.
   * **previous scene** - Goes back to previous scene. Does nothing if the first scene is currently active.
+ 
+To use, simply download the mediastar.lus script to your computer. Load it into OBS Studio from the Tools->Scripts menu. Once loaded, the new hotkey options should appear in the Hotkeys area of the OBS settings.
   
 ## MediaStar Pro Usage
 OBS works well with the standard MediaStar profile, as all the keypresses map to function keys.
