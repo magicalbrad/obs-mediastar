@@ -1,7 +1,7 @@
 # OBS Studio/MediaStar Pro Integration
 Adds additional hotkey support to facilitate controlling OBS Studio with MediaStar Pro show control remote control. Currently it doesn't do much, only adding support for two new hotkeys. I may add additional functionality later. Who knows?
 
-As this simply adds additional hotkey support, this script should work with most any remote, or directly from teh keyboard.
+As this simply adds additional hotkey support, this script should work with most any remote, or directly from the keyboard.
 
 It adds the following hotkeys:
   * **next scene** - Advances to next scene. Does nothing if the last scene is currently active.
